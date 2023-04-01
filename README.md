@@ -2,7 +2,7 @@
 
 ![alt text](https://live.staticflickr.com/65535/52785734857_13260a17df_z.jpg)
 
-
+<img src="https://live.staticflickr.com/65535/52785734857_13260a17df_z.jpg" alt="thumbnail" class="center">
 
 
 
