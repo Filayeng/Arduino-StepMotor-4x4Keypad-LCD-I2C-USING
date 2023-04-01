@@ -1,9 +1,9 @@
 ## Arduino-StepperMotor-4x4Keypad-LCD-I2C-USING
 
-![alt text](https://live.staticflickr.com/65535/52785734857_13260a17df_z.jpg)
 
 <img src="https://live.staticflickr.com/65535/52785734857_13260a17df_z.jpg" alt="thumbnail" class="center">
 
+> - https://youtube.com/shorts/5-K_XwZIKhw <br/>
 
 
 
