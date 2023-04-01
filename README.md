@@ -12,6 +12,7 @@
 > - Arduino Uno/Mega/Nano <br/> 
 > - Nema17 Stepper Motor <br/>
 > - A4988 Stepper Motor Driver <br/> 
+> - 12V Power Supply <br/>
 > - 16x2 I2C LCD Display <br/>
 > - 4x4 Keypad <br/>
 > - PCF8574 I/O Port <br/> 
