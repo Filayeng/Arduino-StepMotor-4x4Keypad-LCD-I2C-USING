@@ -6,7 +6,6 @@
 > - https://youtube.com/shorts/5-K_XwZIKhw <br/>
 
 
-
 ### Working Prenciple
 >The data entered through the 4x4 keypad is sent to the Arduino via the I2C communication protocol. The degree command entered is sent to the A4988 module by the Arduino, and the stepper motor moves to the desired degree. You can see the position of the stepper motor and the degree you entered on the LCD screen. <br/>
 
